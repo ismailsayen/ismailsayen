@@ -13,9 +13,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ismailsayen/count.svg?"  />
-</div>
+
 
 ###
 
