@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi 👋, I'm currently a talent at Zone01Oujda, studying as an Assistant Developer 👨‍💻. I'm passionate about coding 💻 and finding solutions to various problems 🧠. I'm highly motivated 💪, eager to learn different technologies 🚀, and looking to grow my professional network 🌐.</h3>
+<h3 align="left">Hi 👋, I'm currently a talent at Zone01Oujda, studying as an Basic developer 👨‍💻. I'm passionate about coding 💻 and finding solutions to various problems 🧠. I'm highly motivated 💪, eager to learn different technologies 🚀, and looking to grow my professional network 🌐.</h3>
 
 ###
 
