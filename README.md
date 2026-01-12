@@ -4,16 +4,6 @@
 
 <h3 align="left">Hi 👋, I'm currently a talent at Zone01Oujda, studying as an Basic developer 👨‍💻. I'm passionate about coding 💻 and finding solutions to various problems 🧠. I'm highly motivated 💪, eager to learn different technologies 🚀, and looking to grow my professional network 🌐.</h3>
 
-###
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailsayen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
 
 ###
 
