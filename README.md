@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm ISMAIL SAYEN! 👋
 
 ### 👨‍💻 Junior Full-Stack Developer in Training @ Zone01 Oujda
 
@@ -37,9 +37,14 @@ Based on my current training and interests, here is my technical toolkit:
 - 💬 Ask me about: JavaScript, Go, or why I love clean code.
 - 🌐 Collaboration: I'm always open to networking and contributing to open-source projects.
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/YOUR_REPO_NAME&type=Date)](https://star-history.com/#YOUR_USERNAME/YOUR_REPO_NAME&Date)
+
+
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ismail-sayen/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailsvn02@gmail.com.com)
 
 ---
 *"The best way to predict the future is to invent it."*
