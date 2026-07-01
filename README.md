@@ -1,8 +1,8 @@
 # Hi there, I'm ISMAIL SAYEN! 👋
 
-### 👨‍💻 Junior Full-Stack Developer in Training @ Zone01 Oujda
+### 👨‍💻 Junior Cloud & DevOps Engineer in Training @ Zone01 Oujda
 
-I am a passionate coder and problem-solver currently honing my craft at **Zone01 Oujda**. My journey is driven by a deep curiosity for how things work under the hood and a relentless motivation to transition from a Junior to a **Senior Developer**. I thrive on complex challenges and am always eager to collaborate on innovative projects.
+I am a passionate **coder** and **infrastructure** enthusiast currently honing my craft at Zone01 Oujda. My journey is driven by a deep curiosity for how systems work under the hood—from **networking protocols** to **container orchestration**—and a relentless motivation to transition into a **Senior DevOps & Cloud Engineer**. I thrive on complex automation challenges, system design, and building scalable environments, always eager to collaborate on innovative projects.
 
 ---
 
